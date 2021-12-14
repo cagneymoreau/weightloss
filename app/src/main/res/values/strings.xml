@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Weight Loss</string>
+    <string name="medical_disclaimer">Do not use this diet without consulting your doctor or appropriate medical professional. I am not licensed or trained by any medical, weight loss or dieting institution.
+        The diet given here is not meant to treat or cure any specific health condition. The diet plan given here is my personal dieting strategy deployed in a friendly user interface.
+        The strategy in this app should not replace or supersede any care direction you receive from your healthcare provider. You must exercise caution and common sense"</string>
+    <string name="input_instructions">Yes means you met this levels challenge plus all previous. No means you failed this levels challlenge only. Backslide means you broke previous rules.
+            You can only have 3 no answers and 1 backslide in your 60 yes streak. If you take a vacation or have a special event just skip your diet for the day!</string>
+
+    <!-- Titles -->
+
+    <string name="title_zero">Introduction</string>
+    <string name="title_one">Morning liquid</string>
+    <string name="title_two">Midday liquid</string>
+    <string name="title_three">Evening liquid</string>
+    <string name="title_four">Morning Meals</string>
+    <string name="title_five">Midday Meals</string>
+    <string name="title_six">Evening Meals</string>
+
+
+    <!-- Rules -->
+    <string name="rules_zero">The plan is to remove processed food from your diet.
+                This will be done in very small steps so you can adjust your mind and lifestyle easily.
+                Each level increases the challenge and you must keep performing the old rules as well.
+                So what can you eat?!?
+                You can eat whatever you prefer, but you must buy ingredients found in nature.
+                If you couldn\'t go into the wilderness/farm and collect the ingredients then they are not acceptable
+                Further you cannot use mechanical food processing equipment. Or ask/pay someone else to do so for you.
+                Exclusions include: cuts of meat, milk, or zero cal sauces. No honey or zero calorie sweetener.
+                Example: If you want bread you must grind the flour from wheat and bake it.(You wont and that\'s the point)
+                There will be special allowances and rewards along the way"</string>
+    <string name="rules_one">No processed drink ingredients during morning period. Homemade zero calories drink such as coffee or tea allowed. 2 spoonfuls of milk maximum. No store bought zero calories drinks that have flavor. Sparkling water is OK.</string>
+    <string name="rules_two">Previous rules extended to include mid day period. </string>
+    <string name="rules_three">Previous rules extended to include evening period. You will not be having processed liquids for the remainder of the diet </string>
+    <string name="rules_four">You must now exclude processed food ingredients during the morning period. This is in addition to existing rules of not consuming processed liquids </string>
+    <string name="rules_five">Previous rules extended to include mid day period. </string>
+    <string name="rules_six">revious rules extended to include evening period. </string>
+
+
+    <!-- Rewards -->
+
+    <string name="reward_zero">none</string>
+    <string name="reward_one">A teaspoon of pure honey with your morning drink (limit 1 per day). FYI a teaspoon is &#8531; of the average spoon used to eat</string>
+    <string name="reward_two">An additional drink with a teaspoon of pure honey on top of your previous allowance raising your total to 2 per day. Both can now be consumed at any time.</string>
+    <string name="reward_three">You may consume flavored zero calorie drinks. Along with your 2 sweetened drink allowances from previous rules.</string>
+    <string name="reward_four">You may use low calorie sauce or seasoning. A low calorie sauce is a sauce that adds less than 50 calories to a plate of food. Typically there is less than 1 gram of added sugar on label.</string>
+    <string name="reward_five">You may treat yourself to a small store bought processed food item. The food item must be no bigger than your smartphone</string>
+    <string name="reward_six">Bravo, your done. Your reward is better probability of positive health outcomes</string>
+
+
+    <!-- Links -->
+
+    <string name="link_zero"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/S5DI_52xBR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></string>
+    <string name="link_one"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/pCKGWQ5MUV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></string>
+    <string name="link_two"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/pCKGWQ5MUV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></string>
+    <string name="link_three"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/pCKGWQ5MUV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></string>
+    <string name="link_four"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/w3fY-qw1U3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></string>
+    <string name="link_five"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/w3fY-qw1U3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></string>
+    <string name="link_six"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/w3fY-qw1U3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></string>
+
+    <string name="settings_explain">You can set a reminder to input your days results and specify when each period ends</string>
+
+</resources>

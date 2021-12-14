@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/pathWayVisual">
+
+    <fragment
+        android:id="@+id/pathWayVisual"
+        android:name="com.cagneymoreau.weightloss.views.PathWayVisual"
+        android:label="PathWayVisual" />
+    <fragment
+        android:id="@+id/videoButton"
+        android:name="com.cagneymoreau.weightloss.views.VideoButton"
+        android:label="VideoButton" />
+    <fragment
+        android:id="@+id/explanationView"
+        android:name="com.cagneymoreau.weightloss.views.ExplanationView"
+        android:label="ExplanationView" />
+    <fragment
+        android:id="@+id/userInput"
+        android:name="com.cagneymoreau.weightloss.views.UserInput"
+        android:label="UserInput" />
+    <action
+        android:id="@+id/action_global_explanationView"
+        app:destination="@id/explanationView" />
+    <action
+        android:id="@+id/action_global_videoButton"
+        app:destination="@id/videoButton" />
+    <action
+        android:id="@+id/action_global_userInput"
+        app:destination="@id/userInput" />
+    <action
+        android:id="@+id/action_global_pathWayVisual"
+        app:destination="@id/pathWayVisual" />
+    <fragment
+        android:id="@+id/settings"
+        android:name="com.cagneymoreau.weightloss.views.Settings"
+        android:label="Settings" /><action android:id="@+id/action_global_settings" app:destination="@id/settings"/>
+</navigation>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49227044430",
+    "project_id": "easy-weight-loss-fb7af",
+    "storage_bucket": "easy-weight-loss-fb7af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49227044430:android:55a8f8f498422e6f8d951f",
+        "android_client_info": {
+          "package_name": "com.cagneymoreau.weightloss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49227044430-q6ih237admv6bj68cdfklj9g3dm568jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsyjP8dhWM5dRdgCHzO4OFaIGi-Yb6jGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49227044430-q6ih237admv6bj68cdfklj9g3dm568jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
